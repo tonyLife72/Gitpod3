@@ -1,0 +1,25 @@
+.advice {
+    max-width: 1310px;
+    margin: 0 auto;
+}
+
+.advice__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    font-size: 54px;
+    color: #12100c;
+    padding: 200px 0px 200px 0px;
+}
+
+.crossout {
+    font-weight: 400;
+    font-size: 54px;
+    line-height: 118%;
+    text-decoration: line-through;
+    text-decoration-thickness: 2px;
+    color: #999795;
+}
+

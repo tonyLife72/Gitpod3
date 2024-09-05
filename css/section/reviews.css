@@ -1,0 +1,35 @@
+.reviews {
+    margin-top: 177px;
+}
+.reviews__contant {
+    margin-top: 48px;
+    display: flex;
+    column-gap: 24px;
+    overflow-x: auto;
+    scrollbar-width: none;
+}
+
+.reviews__title {
+    font-size: clamp(1.25rem, 0.776rem + 2.166vi, 3.375rem);
+    text-align: center;
+    font-weight: 700;
+    line-height: 118%;
+    text-align: center;
+    color:#12100c     
+}
+
+.reviews__card {
+    min-width: 384px;
+    max-width: 384px;
+    background-color: white;
+    border-radius: 16px;
+    padding: 20px;
+    box-shadow: 0 4px 4px rgba(0,0,0,0.25);
+    flex-shrink: 0;
+}
+
+.reviews
+
+A-webkit- Safari
+-moz- S
+
